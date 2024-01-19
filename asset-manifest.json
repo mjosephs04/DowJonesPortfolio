@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/DowJonesPortfolio/static/css/main.64722cd5.css",
-    "main.js": "/DowJonesPortfolio/static/js/main.e499f503.js",
+    "main.js": "/DowJonesPortfolio/static/js/main.b4ac94fa.js",
     "static/js/787.7da95b79.chunk.js": "/DowJonesPortfolio/static/js/787.7da95b79.chunk.js",
     "static/media/logo-s.png": "/DowJonesPortfolio/static/media/logo-s.2ec13807da629fd124e9.png",
     "static/media/helvetica-neu.ttf": "/DowJonesPortfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
@@ -10,11 +10,11 @@
     "static/media/CoolveticaRg-Regular.woff2": "/DowJonesPortfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/DowJonesPortfolio/index.html",
     "main.64722cd5.css.map": "/DowJonesPortfolio/static/css/main.64722cd5.css.map",
-    "main.e499f503.js.map": "/DowJonesPortfolio/static/js/main.e499f503.js.map",
+    "main.b4ac94fa.js.map": "/DowJonesPortfolio/static/js/main.b4ac94fa.js.map",
     "787.7da95b79.chunk.js.map": "/DowJonesPortfolio/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.64722cd5.css",
-    "static/js/main.e499f503.js"
+    "static/js/main.b4ac94fa.js"
   ]
 }
